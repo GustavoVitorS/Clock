@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {background-color:#181818;}
+
+#timedate {
+  font: small-caps lighter 43px/150% 'Anton', sans-serif;
+  text-align:left;
+  width: 50%;
+  margin: 40px auto;
+  color:#fff;
+  border-left: 3px solid #540062;
+  border-right: 3px solid #540062;
+  border-top: 3px solid #540062;
+  border-bottom: 3px solid #540062;
+  padding: 20px;
+}
